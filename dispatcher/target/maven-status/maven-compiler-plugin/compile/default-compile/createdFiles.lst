@@ -1,0 +1,11 @@
+org/example/service/UpdateProducer.class
+org/example/configuration/JacksonConfig.class
+org/example/utils/MessageUtils.class
+org/example/DispatcherApplication.class
+org/example/controller/UpdateProcessor.class
+org/example/service/AnswerConsumer.class
+org/example/controller/TelegramBot.class
+org/example/controller/WebHookController.class
+org/example/service/impl/UpdateProducerImpl.class
+org/example/configuration/RabbitConfiguration.class
+org/example/service/impl/AnswerConsumerImpl.class

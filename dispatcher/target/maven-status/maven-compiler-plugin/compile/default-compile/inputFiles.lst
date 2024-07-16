@@ -1,0 +1,11 @@
+/root/lotteryBot/LotteryBot2/dispatcher/src/main/java/org/example/controller/TelegramBot.java
+/root/lotteryBot/LotteryBot2/dispatcher/src/main/java/org/example/service/UpdateProducer.java
+/root/lotteryBot/LotteryBot2/dispatcher/src/main/java/org/example/DispatcherApplication.java
+/root/lotteryBot/LotteryBot2/dispatcher/src/main/java/org/example/service/impl/UpdateProducerImpl.java
+/root/lotteryBot/LotteryBot2/dispatcher/src/main/java/org/example/utils/MessageUtils.java
+/root/lotteryBot/LotteryBot2/dispatcher/src/main/java/org/example/service/impl/AnswerConsumerImpl.java
+/root/lotteryBot/LotteryBot2/dispatcher/src/main/java/org/example/controller/WebHookController.java
+/root/lotteryBot/LotteryBot2/dispatcher/src/main/java/org/example/configuration/JacksonConfig.java
+/root/lotteryBot/LotteryBot2/dispatcher/src/main/java/org/example/configuration/RabbitConfiguration.java
+/root/lotteryBot/LotteryBot2/dispatcher/src/main/java/org/example/service/AnswerConsumer.java
+/root/lotteryBot/LotteryBot2/dispatcher/src/main/java/org/example/controller/UpdateProcessor.java

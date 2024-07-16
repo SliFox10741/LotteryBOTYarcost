@@ -1,0 +1,1 @@
+2024-02-26 18:24:40 ERROR TelegramBot:41 - Error executing org.telegram.telegrambots.meta.api.methods.updates.SetWebhook query: [400] Bad Request: bad webhook: An HTTPS URL must be provided for webhook

@@ -1,0 +1,11 @@
+/root/lotteryBot/LotteryBot2/common-jpa/src/main/java/org/example/entity/enums/UserState.java
+/root/lotteryBot/LotteryBot2/common-jpa/src/main/java/org/example/entity/UserTicket.java
+/root/lotteryBot/LotteryBot2/common-jpa/src/main/java/org/example/dao/UserTicketDAO.java
+/root/lotteryBot/LotteryBot2/common-jpa/src/main/java/org/example/dao/AppUserDAO.java
+/root/lotteryBot/LotteryBot2/common-jpa/src/main/java/org/example/dao/AppDocumentDAO.java
+/root/lotteryBot/LotteryBot2/common-jpa/src/main/java/org/example/entity/AppUser.java
+/root/lotteryBot/LotteryBot2/common-jpa/src/main/java/org/example/entity/AppDocument.java
+/root/lotteryBot/LotteryBot2/common-jpa/src/main/java/org/example/dao/BinaryContentDAO.java
+/root/lotteryBot/LotteryBot2/common-jpa/src/main/java/org/example/dao/AppPhotoDAO.java
+/root/lotteryBot/LotteryBot2/common-jpa/src/main/java/org/example/entity/AppPhoto.java
+/root/lotteryBot/LotteryBot2/common-jpa/src/main/java/org/example/entity/BinaryContent.java

@@ -1,0 +1,16 @@
+org/example/dao/AppUserDAO.class
+org/example/entity/UserTicket$UserTicketBuilder.class
+org/example/entity/AppPhoto$AppPhotoBuilder.class
+org/example/dao/AppDocumentDAO.class
+org/example/entity/AppUser.class
+org/example/entity/AppUser$AppUserBuilder.class
+org/example/entity/enums/UserState.class
+org/example/dao/AppPhotoDAO.class
+org/example/dao/BinaryContentDAO.class
+org/example/dao/UserTicketDAO.class
+org/example/entity/AppPhoto.class
+org/example/entity/BinaryContent$BinaryContentBuilder.class
+org/example/entity/AppDocument$AppDocumentBuilder.class
+org/example/entity/BinaryContent.class
+org/example/entity/UserTicket.class
+org/example/entity/AppDocument.class

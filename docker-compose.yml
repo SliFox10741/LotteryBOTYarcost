@@ -1,0 +1,22 @@
+version: '3'
+services:
+
+  dispatcher:
+    image: mybot/dispatcher
+    ports:
+      - "8084:8084"
+    network_mode: host
+    volumes:
+      - ./exel:/app/exel
+      - ./images:/app/images
+      - ./tickets:/app/tickets
+
+  node:
+    image: mybot/node
+    ports:
+      - "8085:8085"
+    network_mode: host
+    volumes:
+      - ./exel:/app/exel
+      - ./images:/app/images
+      - ./tickets:/app/tickets
